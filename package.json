@@ -1,0 +1,12 @@
+{
+  "name": "ts-handle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gogo-types/ts-tutorial.git",
+  "author": "Koras02 <wjdgh0727@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
